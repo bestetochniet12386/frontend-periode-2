@@ -1,0 +1,33 @@
+.achtergrond-licht {
+    background-color: #eee;
+    padding: 45px 0;
+}
+
+.achtergrond-donker {
+    background-color: #aaa;
+    padding: 45px 0;
+}
+
+.achtergrond-wit {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+h2 {
+    margin-bottom: 25px;
+    font-size: 22px;
+}
+
+h3 {
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+.table {
+    width: 100%;
+}
+
+ul {
+    margin-bottom: 0;
+}
