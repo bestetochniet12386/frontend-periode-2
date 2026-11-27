@@ -31,3 +31,8 @@ h3 {
 ul {
     margin-bottom: 0;
 }
+
+.achtergrond-wit img {
+    width: 100%;
+    height: auto;
+}
